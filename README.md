@@ -13,6 +13,8 @@
 - 💻 Personal Website: https://data-caret.com
 - 📄 Profile : https://data-caret.com/profile
 - 📊 Portfolio : https://data-caret.com/portfolio
+- Linkedin : https://www.linkedin.com/in/thanida-prasert-profile/
+- Medium : https://medium.com/@data-caret
 
 
 ## EDUCATION
